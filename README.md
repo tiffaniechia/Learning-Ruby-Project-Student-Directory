@@ -4,6 +4,8 @@ The goal of this project is to introduce us to basic Ruby and familiarize oursel
 
 I has the ability to add new students by asking the user to input their names and relevant details. Hard validations have been added to ensure that these details are correctly entered. It will then show the list of students grouped by cohorts.
 
+This project was created by [Evgeny Shadchnev](https://github.com/shadchnev)
+
 ##Stack:
 - Ruby
 - Command line

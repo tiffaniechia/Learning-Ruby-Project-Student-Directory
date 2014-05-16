@@ -6,6 +6,8 @@ I has the ability to add new students by asking the user to input their names an
 
 This project was created by [Evgeny Shadchnev](https://github.com/shadchnev)
 
-##Stack:
+(Week 1)
+
+##Technologies Used
 - Ruby
 - Command line
